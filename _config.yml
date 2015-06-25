@@ -4,10 +4,11 @@ title: dreilopz.com
 description: > # this means to ignore newlines until "baseurl:"
   dreilopz's website
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://dreilopz.com" # the base hostname & protocol for your site
+url: "http://dreilopz.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 permalink: "/blog/:year/:month/:day/:title"
+include: [_images, _modules, _sources, _static]
 
 # Build settings
 markdown: kramdown
