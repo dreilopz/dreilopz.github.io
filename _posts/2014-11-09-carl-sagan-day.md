@@ -54,7 +54,7 @@ been 80 years old today. Sagan & Druyan on animals, exploitation and suffering.
 > —Shadows of Forgotten Ancestors (1992). Carl Sagan & Ann Druyan. Chapter 19,
 > What Is Human?
 
-[![Carl Sagan quote from Pale Blue Dot: A Vision of the Human Future in Space](http://dreilopz.com/blog/wp-content/uploads/2014/11/carl_sagan_day.png)](http://dreilopz.com/blog/wp-content/uploads/2014/11/carl_sagan_day.png)
+[![Carl Sagan quote from Pale Blue Dot: A Vision of the Human Future in Space](http://dreilopz.com/img/carl_sagan_day.png)](http://dreilopz.com/img/carl_sagan_day.png)
 
 *Carl Sagan quote from Pale Blue Dot: A Vision of the Human Future in Space,
 credit [Carl Sagan Google Doodle

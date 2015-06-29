@@ -22,7 +22,7 @@ exploitation of sentient life.
 > breathes... " – Jeremy Bentham, An Introduction to the Principles of Morals
 > and Legislation, 1789
 
-![http://www.dreilopz.me/img/world_day_for_farmed_animals_01.png](http://www.dreilopz.me/img/world_day_for_farmed_animals_01.png)
+![http://dreilopz.com/img/world_day_for_farmed_animals_01.png](http://www.dreilopz.com/img/world_day_for_farmed_animals_01.png)
 
 **World Day for Farmed Animals**
 
